@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Sherman",
+    "age": 86,
+    "address": {
+        "street": "Guerra Ridges",
+        "city": "Lake Barbara",
+        "state": "Texas",
+        "zip": "78228"
+    },
+    "contact": {
+        "phone": "9783313098",
+        "servicePhone": "800270426"
+    },
+    "birthday": "1939-21-01",
+    "ip": "223.131.136.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Form again fact back. Center catch crime or arm successful. Want simple yard really total Republican study.\nSpeech it edge too. Firm work everyone. Support marriage likely there more ball.",
+        "bio": "Message upon raise seven. Capital pick school service Congress share. Attack early tonight for blue remain."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
