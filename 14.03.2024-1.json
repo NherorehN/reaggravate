@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Mclaughlin",
+    "age": 12,
+    "address": {
+        "street": "Garcia Terrace",
+        "city": "Antonioton",
+        "state": "Nebraska",
+        "zip": "15288"
+    },
+    "contact": {
+        "phone": "001-380-913-7414x35379",
+        "servicePhone": "800720468"
+    },
+    "birthday": "2013-14-04",
+    "ip": "10.34.247.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Color along treat scientist build area music system.\nManagement relationship them.",
+        "bio": "Himself must camera director research. Watch mind middle."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
