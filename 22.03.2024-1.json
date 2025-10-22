@@ -1,0 +1,25 @@
+{
+    "name": "James Lawrence",
+    "age": 57,
+    "address": {
+        "street": "Parker Skyway",
+        "city": "Christopherfurt",
+        "state": "New Jersey",
+        "zip": "71519"
+    },
+    "contact": {
+        "phone": "(928)822-7015x28481",
+        "servicePhone": "800827912"
+    },
+    "birthday": "1968-05-06",
+    "ip": "81.162.24.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious continue quality structure life rather. Start stage program age success. Campaign exist sit.",
+        "bio": "Herself heart because picture still. Doctor next always future. Attention shake lot east say account item. Think Mr describe indeed until else."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
