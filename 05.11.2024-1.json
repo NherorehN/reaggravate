@@ -1,0 +1,25 @@
+{
+    "name": "Donald King",
+    "age": 14,
+    "address": {
+        "street": "Jones Village",
+        "city": "Schroederstad",
+        "state": "Alabama",
+        "zip": "63457"
+    },
+    "contact": {
+        "phone": "(394)511-6351x645",
+        "servicePhone": "800967026"
+    },
+    "birthday": "2011-20-01",
+    "ip": "76.167.23.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Still rest watch. Trip require fill travel identify good.\nMr small help. Bit majority attorney listen. Sister most character difficult treat test find.",
+        "bio": "Agreement cold could worker young. Dog write watch growth ability give.\nWater goal population future scene huge. Thank during within other police."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
