@@ -1,0 +1,25 @@
+{
+    "name": "Shelly Burns",
+    "age": 109,
+    "address": {
+        "street": "Graham Spur",
+        "city": "Shannonfurt",
+        "state": "Wisconsin",
+        "zip": "70824"
+    },
+    "contact": {
+        "phone": "712-847-6078",
+        "servicePhone": "800213250"
+    },
+    "birthday": "1916-21-06",
+    "ip": "78.157.182.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone more strategy economy race later toward. Watch friend chair health assume run wonder.",
+        "bio": "Who reveal together just short upon. Candidate teacher ahead establish stop account adult. Free again the fill."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
