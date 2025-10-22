@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Tran",
+    "age": 32,
+    "address": {
+        "street": "Andrew Locks",
+        "city": "South Danielle",
+        "state": "California",
+        "zip": "71350"
+    },
+    "contact": {
+        "phone": "(923)330-5208x657",
+        "servicePhone": "800515398"
+    },
+    "birthday": "1993-17-03",
+    "ip": "130.244.227.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal everyone chair camera. Few song among serve course number wait onto.",
+        "bio": "Include meet various man chance tonight over someone. Practice institution health artist pattern person street.\nIssue make meet billion decision. Stand account woman floor whose rule student."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
