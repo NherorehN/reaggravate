@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Carroll III",
+    "age": 80,
+    "address": {
+        "street": "Ball Club",
+        "city": "Clarkland",
+        "state": "Indiana",
+        "zip": "82339"
+    },
+    "contact": {
+        "phone": "+1-551-769-7448x5828",
+        "servicePhone": "800129317"
+    },
+    "birthday": "1945-10-11",
+    "ip": "62.97.153.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Size east prove run across fly. Point floor color finally.\nSuffer deep must deep.\nModel leg result claim together anyone. Half hand smile power give power.",
+        "bio": "Set explain evening. Fly range religious unit.\nDirection guy agreement approach. Reveal change else from choose every whole.\nCentury challenge gas kid generation serve. Box teach wonder agent idea."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
