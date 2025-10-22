@@ -1,0 +1,25 @@
+{
+    "name": "Jenny Sanchez",
+    "age": 77,
+    "address": {
+        "street": "Sanchez Court",
+        "city": "West Steve",
+        "state": "Utah",
+        "zip": "41997"
+    },
+    "contact": {
+        "phone": "291-848-5446x76727",
+        "servicePhone": "800724999"
+    },
+    "birthday": "1948-27-05",
+    "ip": "24.162.162.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Science just others. Born fight south hour rock mean throughout. Man reach public.",
+        "bio": "Enjoy turn father during notice. Success president executive door. Success heart himself."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
