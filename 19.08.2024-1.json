@@ -1,0 +1,25 @@
+{
+    "name": "William Baker",
+    "age": 19,
+    "address": {
+        "street": "Evans Passage",
+        "city": "Port Brittneyside",
+        "state": "Rhode Island",
+        "zip": "88936"
+    },
+    "contact": {
+        "phone": "(690)712-1561",
+        "servicePhone": "800682671"
+    },
+    "birthday": "2006-24-06",
+    "ip": "48.239.242.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Mrs local value under rise. They police model animal.\nLike these particular. Trip no easy Mr sort hard. Well level chance factor little window fast.",
+        "bio": "Another bill per television. Meeting also hospital may hard minute. Recent town single short above.\nPainting talk dinner none image. Third you have either message eight out."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
