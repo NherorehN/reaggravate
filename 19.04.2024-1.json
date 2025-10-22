@@ -1,0 +1,25 @@
+{
+    "name": "Daisy Riley",
+    "age": 17,
+    "address": {
+        "street": "Rivera Stream",
+        "city": "Garciastad",
+        "state": "New Jersey",
+        "zip": "20869"
+    },
+    "contact": {
+        "phone": "001-348-995-0745x439",
+        "servicePhone": "800322578"
+    },
+    "birthday": "2008-06-01",
+    "ip": "56.1.136.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful book determine region appear. Condition always lay. Themselves movement material training pattern.\nWrong owner many someone up within plant. Again husband gun who risk our.",
+        "bio": "While political everything before answer to.\nTen account number teacher. Together another action a letter fish real suffer. Forget parent goal message how."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
