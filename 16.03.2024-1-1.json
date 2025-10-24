@@ -1,0 +1,25 @@
+{
+    "name": "Michael Becker",
+    "age": 63,
+    "address": {
+        "street": "Mark Shoals",
+        "city": "Mezachester",
+        "state": "Louisiana",
+        "zip": "79401"
+    },
+    "contact": {
+        "phone": "(861)493-3995x25633",
+        "servicePhone": "800662742"
+    },
+    "birthday": "1962-26-08",
+    "ip": "99.135.154.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement whatever important give production.\nLife common get buy miss. Lawyer someone so recently successful author. Receive growth together ask.",
+        "bio": "Air care base need me anything care than. Meeting entire recently do take wall. About impact herself material player best."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
